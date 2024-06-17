@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://live.hsslive.cn" target="_blank">
-    <img
-      width="200"
-      src="https://resource.hsslive.cn/billd-live/image/240160ddbc14367f7e0126c1f5b09b69.svg"
-      alt="Billd-Live logo"
-    />
-  </a>
-</p>
 
 <h1 align="center">
   U-Live
